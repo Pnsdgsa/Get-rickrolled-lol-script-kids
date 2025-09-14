@@ -24,7 +24,7 @@ ScreenGui.Name = "JeffTheKillerWuzHere"
 VideoScreen.Parent = ScreenGui
 VideoScreen.Size = UDim2.new(1,0,1,0)
 
-writefile("yes.mp4", game:HttpGet("https://github.com/Pnsdgsa/Get-rickrolled-lol-script-kids/raw/refs/heads/main/Never%20Gonna%20Give%20You%20Up%20Voice%20Crack.mp4"))
+writefile("no_way_bro_fall_for_this_💀_.mp4", game:HttpGet("https://github.com/Pnsdgsa/Get-rickrolled-lol-script-kids/raw/refs/heads/main/Never%20Gonna%20Give%20You%20Up%20Voice%20Crack.mp4"))
 
 VideoScreen.Video = getcustomasset("no_way_bro_fall_for_this_💀_.mp4")
 
